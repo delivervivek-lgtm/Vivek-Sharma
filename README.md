@@ -31,7 +31,7 @@
 * <a href="https://www.credly.com/badges/86a55b3e-2ae1-4a03-a939-10ce65543199/public_url"><img src="https://images.credly.com/images/502e11bf-689c-4ddc-9624-93f342f24424/image.png" alt="Qlik Sense Business Analyst" width="80" style="vertical-align:middle;"></a> 
     **[Qlik Sense Business Analyst Certification](https://www.credly.com/badges/86a55b3e-2ae1-4a03-a939-10ce65543199/public_url)**
 
-* <a href="https://credentials.databricks.com/556e2b4e-241f-43b5-bfa7-a6bc9e1086cb"><img src="databricks_badge.png" alt="Databricks Certified Data Analyst Associate" width="80" style="vertical-align:middle;"></a> 
+* <a href="https://credentials.databricks.com/556e2b4e-241f-43b5-bfa7-a6bc9e1086cb"><img src="https://images.credly.com/size/80x80/images/8bcb0ec7-d3bc-4103-8963-8164ad329265/5a0bc63a-315b-46cb-94a7-86dd212bee05_cached_image_20250925-31-7ofu9f.png" alt="Databricks Certified Data Analyst Associate" width="80" style="vertical-align:middle;"></a> 
     **[Databricks Certified Data Analyst Associate](https://credentials.databricks.com/556e2b4e-241f-43b5-bfa7-a6bc9e1086cb)**
 
 ### ⏳ Coming Soon
