@@ -18,7 +18,7 @@ DataBricks Data Analyst, Qlik Sense Business Analyst, Google Cloud Leader, AWS G
 
 (This is where you will link to your projects after you make them in Step 2)
 
-* **[Qlik Sense Financial Dashboard](https://github.com/YourUsername/qlik-sales-dashboard)**: An interactive dashboard analyzing sales, profit, and product performance using Set Analysis and Table Calcs.
+* **[Qlik Sense Financial Dashboard](https://github.com/delivervivek-lgtm/qlik-sales-dashboard)**: An interactive dashboard analyzing sales, profit, and product performance using Set Analysis and Table Calcs.
 * **(Upcoming Project 2)**
 * **(Upcoming Project 3)**
 
