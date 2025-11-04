@@ -1,22 +1,59 @@
 # Hi, I'm Vivek Sharma 👋
 
-I'm a Data & Business Intelligence Analyst passionate about turning raw data into actionable insights using tools like Qlik, SQL, and AWS.
+**Data & Business Intelligence Analyst** | Turning complex data into actionable business insights
 
----
+## 🏆 Career Highlights
 
-### 🛠️ My Tech Stack
+✅ **Certified** across multiple cloud and analytics platforms
 
-* **BI Tools:** Qlik Sense, Tableau, Power BI
-* **Databases:** SQL (Snowflake, Databricks)
-* **Cloud & Data:** AWS , Google Cloud
-* **Certifications:** 
-DataBricks Data Analyst, Qlik Sense Business Analyst, Google Cloud Leader, AWS Gen AI practitioner 
+✅ **6+ years** of business domain expertise in finance.
 
----
+✅ **Proven track record** of learning new technologies quickly
+
+✅ **Unique combination** of business acumen + technical skills
+
+
+## 🏆 Certifications & Badges
+
+### ☁️ Cloud & AI
+
+* <a href="https://www.credly.com/badges/a0dcb17d-3551-457b-9aab-b7c8ad383344/public_url"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Google Cloud Generative AI Leader" width="80" style="vertical-align:middle;"></a> 
+    **[Google Cloud Generative AI Leader](https://www.credly.com/badges/a0dcb17d-3551-457b-9aab-b7c8ad383344/public_url)**
+
+* <a href="https://www.credly.com/badges/37076c37-cea3-42ba-a802-e3603c47e134/public_url"><img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" alt="AWS Generative AI Practitioner" width="80" style="vertical-align:middle;"></a> 
+    **[AWS Generative AI Practitioner](https://www.credly.com/badges/37076c37-cea3-42ba-a802-e3603c47e134/public_url)**
+
+### 📊 Data & Analytics
+
+* <a href="https://www.credly.com/badges/0fd1421c-11c0-401b-9168-af9cc7221fd3/public_url"><img src="https://images.credly.com/images/05e27967-eec6-43c0-9e5b-215c9afbd14a/image.png" alt="Qlik Replicate Certification" width="80" style="vertical-align:middle;"></a> 
+    **[Qlik Replicate Certification](https://www.credly.com/badges/0fd1421c-11c0-401b-9168-af9cc7221fd3/public_url)**
+
+* <a href="https://www.credly.com/badges/86a55b3e-2ae1-4a03-a939-10ce65543199/public_url"><img src="https://images.credly.com/images/502e11bf-689c-4ddc-9624-93f342f24424/image.png" alt="Qlik Sense Business Analyst" width="80" style="vertical-align:middle;"></a> 
+    **[Qlik Sense Business Analyst Certification](https://www.credly.com/badges/86a55b3e-2ae1-4a03-a939-10ce65543199/public_url)**
+
+* <a href="https://credentials.databricks.com/556e2b4e-241f-43b5-bfa7-a6bc9e1086cb"><img src="databricks_badge.png" alt="Databricks Certified Data Analyst Associate" width="80" style="vertical-align:middle;"></a> 
+    **[Databricks Certified Data Analyst Associate](https://credentials.databricks.com/556e2b4e-241f-43b5-bfa7-a6bc9e1086cb)**
+
+### ⏳ Coming Soon
+
+* **Power BI PL-300** (In Progress)
+
+
+  
+## 🛠️ Technical Arsenal
+
+**BI & Visualization:** Power BI, Tableau, Qlik Sense,
+
+**Databases & SQL:** Snowflake, Databricks, Advanced SQL 
+
+**Cloud Platforms:** AWS, Google Cloud Platform
+
+**Programming:** Python (Pandas, NumPy), DAX, M Query, Set
+
+**Tools:** Power Query, Excel Advanced, JIRA
 
 ### 📈 My Featured Projects
 
-(This is where you will link to your projects after you make them in Step 2)
 
 * **[Qlik Sense Financial Dashboard](https://github.com/delivervivek-lgtm/qlik-sales-dashboard)**: An interactive dashboard analyzing sales, profit, and product performance using Set Analysis and Table Calcs.
 * **(Upcoming Project 2)**
@@ -24,6 +61,12 @@ DataBricks Data Analyst, Qlik Sense Business Analyst, Google Cloud Leader, AWS G
 
 ---
 
-### 📫 How to Reach Me
+## 📫 Let's Connect!
 
-* **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- 🔗 **LinkedIn:** [Vivek Sharma](https://linkedin.com/in/yourprofile)
+- 🏆 **Credly:** [View & Verify All Certifications](https://www.credly.com/users/vivek-sharma.85431e57)
+- 📧 **Email:** bibeksm789@gmail.com
+
+**Open to:** Data Analyst | BI Developer | Business Intelligence Roles | Business Analyst | Tablueau Developer
+
+**Location:** Bangalore/Hyderabad/Kolkata/Pune/Mumbai/Gurgaon/Noida/Remote
