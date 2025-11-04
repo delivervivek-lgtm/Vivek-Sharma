@@ -55,7 +55,7 @@
 ### 📈 My Featured Projects
 
 
-* **[Qlik Sense Financial Dashboard](https://github.com/delivervivek-lgtm/qlik-sales-dashboard)**: An interactive dashboard analyzing sales, profit, and product performance using Set Analysis and Table Calcs.
+* **[Qlik Sense Sales Dashboard](https://github.com/delivervivek-lgtm/qlik-sales-dashboard)**: An interactive dashboard analyzing sales, profit, and product performance using Set Analysis and Table Calcs.
 * **(Upcoming Project 2)**
 * **(Upcoming Project 3)**
 
