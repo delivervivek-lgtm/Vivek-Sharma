@@ -24,6 +24,8 @@
 
 ### ☁️ Cloud & AI
 
+Cloud & AI
+
 <table width="100%">
   <tr>
     <td width="90" style="vertical-align: top;">
@@ -36,6 +38,7 @@
       <br><em>Issued by: Google Cloud</em>
     </td>
   </tr>
+
   <tr>
     <td width="90" style="vertical-align: top;">
       <a href="https://www.credly.com/badges/37076c37-cea3-42ba-a802-e3603c47e134/public_url">
@@ -45,6 +48,18 @@
     <td>
       <strong><a href="https://www.credly.com/badges/37076c37-cea3-42ba-a802-e3603c47e134/public_url">AWS Generative AI Practitioner</a></strong>
       <br><em>Issued by: Amazon Web Services</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="90" style="vertical-align: top;">
+      <a href="https://www.credly.com/badges/057ba3a5-c5b6-4c11-959a-58d81aa6ef4a/public_url">
+        <img src="https://images.credly.com/images/6b6f7f4f-7b1a-4c3d-9c4f-3c5f6e5f4b1d/blob" alt="SAP Certified – Generative AI Developer" width="80">
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://www.credly.com/badges/057ba3a5-c5b6-4c11-959a-58d81aa6ef4a/public_url">SAP Certified – Generative AI Developer</a></strong>
+      <br><em>Issued by: SAP</em>
     </td>
   </tr>
 </table>
