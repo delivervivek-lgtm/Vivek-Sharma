@@ -53,7 +53,7 @@
   <tr>
     <td width="90" style="vertical-align: top;">
       <a href="https://www.credly.com/badges/057ba3a5-c5b6-4c11-959a-58d81aa6ef4a/public_url">
-        <img src="https://images.credly.com/images/6b6f7f4f-7b1a-4c3d-9c4f-3c5f6e5f4b1d/blob" alt="SAP Certified – Generative AI Developer" width="80">
+        <img src="https://www.credly.com/earner/earned/share/057ba3a5-c5b6-4c11-959a-58d81aa6ef4a?provider=download" alt="SAP Certified – Generative AI Developer" width="80">
       </a>
     </td>
     <td>
