@@ -26,40 +26,60 @@
 
 Cloud & AI
 
-<table width="100%">
+<h3>Cloud & AI</h3>
+
+<table width="100%" cellspacing="0" cellpadding="8">
   <tr>
-    <td width="90" style="vertical-align: top;">
-      <a href="https://www.credly.com/badges/a0dcb17d-3551-457b-9aab-b7c8ad383344/public_url">
-        <img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Google Cloud Generative AI Leader" width="80">
+    <td width="90" valign="top">
+      <a href="https://www.credly.com/badges/a0dcb17d-3551-457b-9aab-b7c8ad383344/public_url" target="_blank">
+        <img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob"
+             alt="Google Cloud Generative AI Leader"
+             width="80">
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/badges/a0dcb17d-3551-457b-9aab-b7c8ad383344/public_url">Google Cloud Generative AI Leader</a></strong>
-      <br><em>Issued by: Google Cloud</em>
+      <strong>
+        <a href="https://www.credly.com/badges/a0dcb17d-3551-457b-9aab-b7c8ad383344/public_url" target="_blank">
+          Google Cloud Generative AI Leader
+        </a>
+      </strong><br>
+      <em>Issued by: Google Cloud</em>
     </td>
   </tr>
 
   <tr>
-    <td width="90" style="vertical-align: top;">
-      <a href="https://www.credly.com/badges/37076c37-cea3-42ba-a802-e3603c47e134/public_url">
-        <img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" alt="AWS Generative AI Practitioner" width="80">
+    <td width="90" valign="top">
+      <a href="https://www.credly.com/badges/37076c37-cea3-42ba-a802-e3603c47e134/public_url" target="_blank">
+        <img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob"
+             alt="AWS Generative AI Practitioner"
+             width="80">
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/badges/37076c37-cea3-42ba-a802-e3603c47e134/public_url">AWS Generative AI Practitioner</a></strong>
-      <br><em>Issued by: Amazon Web Services</em>
+      <strong>
+        <a href="https://www.credly.com/badges/37076c37-cea3-42ba-a802-e3603c47e134/public_url" target="_blank">
+          AWS Generative AI Practitioner
+        </a>
+      </strong><br>
+      <em>Issued by: Amazon Web Services</em>
     </td>
   </tr>
 
   <tr>
-    <td width="90" style="vertical-align: top;">
-      <a href="https://www.credly.com/badges/057ba3a5-c5b6-4c11-959a-58d81aa6ef4a/public_url">
-        <img src="https://images.credly.com/images/6b6f7f4f-7b1a-4c3d-9c4f-3c5f6e5f4b1d/blob" alt="SAP Certified – Generative AI Developer" width="80">
+    <td width="90" valign="top">
+      <a href="https://www.credly.com/badges/057ba3a5-c5b6-4c11-959a-58d81aa6ef4a/public_url" target="_blank">
+        <img src="https://images.credly.com/images/6b6f7f4f-7b1a-4c3d-9c4f-3c5f6e5f4b1d/blob"
+             alt="SAP Certified – Generative AI Developer"
+             width="80">
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/badges/057ba3a5-c5b6-4c11-959a-58d81aa6ef4a/public_url">SAP Certified – Generative AI Developer</a></strong>
-      <br><em>Issued by: SAP</em>
+      <strong>
+        <a href="https://www.credly.com/badges/057ba3a5-c5b6-4c11-959a-58d81aa6ef4a/public_url" target="_blank">
+          SAP Certified – Generative AI Developer
+        </a>
+      </strong><br>
+      <em>Issued by: SAP</em>
     </td>
   </tr>
 </table>
