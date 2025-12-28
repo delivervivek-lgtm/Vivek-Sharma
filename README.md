@@ -24,11 +24,7 @@
 
 ### ☁️ Cloud & AI
 
-Cloud & AI
 
-<h3>Cloud & AI</h3>
-
-<table width="100%" cellspacing="0" cellpadding="8">
   <tr>
     <td width="90" valign="top">
       <a href="https://www.credly.com/badges/a0dcb17d-3551-457b-9aab-b7c8ad383344/public_url" target="_blank">
